@@ -56,3 +56,9 @@
 <img src="https://raw.githubusercontent.com/super-cinnamon/super-cinnamon/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/super-cinnamon/count.svg?"  />
+</div>
+
+###

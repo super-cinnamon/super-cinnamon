@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yasmine and I'm an AI Engineer, from outerspace 🚀</h2>
+<h2 align="left">Hi 👋! I'm Yasmine and I'm an AI/ML Engineer, from outerspace 🚀</h2>
 
 ###
 
